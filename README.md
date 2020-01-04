@@ -1,14 +1,17 @@
-<h1 align="left">
+<h1 align="center">
   <img alt="Gympoint" title="Gympoint" src=".imgProject/logo.png" width="200px" />
 </h1>
 
-<h3 align="left">
+<h3 align="center">
   Gympoint - Desafio Final - Bootcamp 2019
 </h3>
 
+
+
+
 ## PROCEDIMENTOS PARA INSTALAÇÃO
 
-Clonar o repositorio
+Clone o repositorio
 
 ### Backend
 
@@ -24,8 +27,8 @@ Clonar o repositorio
 2. Rode `yarn start` para executar a aplicação web
 
 Dados para acessar a aplição web: 
-Usuario: `waldisonjunior@oi.com.br`
-Senha: `987654321`
+1. Usuario: `waldisonjunior@oi.com.br`
+1. Senha: `987654321`
 
 <p align="center">
   <img alt="Pagina de Login" title="LoginPage" src=".imgProject/web1.png" />
