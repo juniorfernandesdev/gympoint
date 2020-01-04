@@ -22,7 +22,7 @@ import {
 } from './styles';
 
 function HelpList({navigation, isFocused}) {
-  const {id} = useSelector(state => state.auth);
+  const id = useSelector(state => state.auth.profile.id);
   const [helpLists, setHelpLists] = useState([]);
 
   useEffect(() => {
