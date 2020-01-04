@@ -43,19 +43,16 @@ Senha: `987654321`
 3. Rertorne a pasta depois da instalação e execute o comando `react-native ruin-ios`;
 4. Faça o login com o id `1`;
 
-<p align="left">
+<p align="center">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone1.png"  width="300px" />
   <img alt="Mobile" title="Mobile" src=".imgProject/phone2.png"  width="300px" />
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone3.png"  width="300px" />
-</p>
-
-<p align="left">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone4.png"  width="300px" />
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone5.png"  width="300px" />
 </p>
