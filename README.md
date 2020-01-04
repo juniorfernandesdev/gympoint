@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="left">
   <img alt="Gympoint" title="Gympoint" src=".imgProject/logo.png" width="200px" />
 </h1>
 
-<h3 align="center">
+<h3 align="left">
   Gympoint - Desafio Final - Bootcamp 2019
 </h3>
 
@@ -45,9 +45,6 @@ Senha: `987654321`
 
 <p align="left">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone1.png"  width="300px" />
-</p>
-
-<p align="left">
   <img alt="Mobile" title="Mobile" src=".imgProject/phone2.png"  width="300px" />
 </p>
 
