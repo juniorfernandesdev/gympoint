@@ -43,7 +43,7 @@ Dados para acessar a aplição web:
 
 1. Entre no diretorio `mobile` e rodar `yarn` para instalar as libs utilizadas no projeto;
 2. Entre no diretorio `ios` e rode `pod install`;
-3. Rertorne a pasta depois da instalação e execute o comando `react-native ruin-ios`;
+3. Rertorne a pasta depois da instalação e execute o comando `react-native run-ios`;
 4. Faça o login com o id `1`;
 
 <p align="center">
